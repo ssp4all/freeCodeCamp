@@ -50,6 +50,14 @@ title: Books to Read for Programmers
 - [Amazon Smile](https://smile.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397?pldnSite=1)
 - ISBN-13: 9781617292392
 
+*Code Complete: A Practical Handbook of Software Construction* - Steve McConnell
+- [Amazon](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+- ISBN-13: 978-0735619678
+
+*Design Patterns: Elements of Reusable Object-Oriented Software* - Erich Gamma
+- [Amazon](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- ISBN-13: 978-0201633610
+
 ## Algorithms
 
 *Introduction to Algorithms, 3rd Edition (MIT Press)* by Thomas H. Cormen and Charles E. Leiserson
@@ -450,6 +458,36 @@ title: Books to Read for Programmers
 - [Amazon](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 - ISBN:  978-0596007126
 
+*Practical Malware Analysis - No Starch Press*
+- [No Starch Press](https://nostarch.com/malware)
+- ISBN-13: 978-1-59327-290-6
+
+*CSS: The Missing Manual*
+- [Amazon](https://www.amazon.com/CSS-Missing-Manual-Manuals/dp/0596802447)
+- ISBN-13: 978-0596802448
+
 This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 
 Please feel free to add more that you have found useful!
+
+## Programming Books for kids to get coding
+
+*Python for Kids: A Playful Introduction to Programming by Jason Briggs (For Ages 10+)*
+- [Amazon Smile](https://smile.amazon.com/Python-Kids-Playful-Introduction-Programming-ebook/dp/B00ADX21Z6)
+- ISBN-13: 978-1593274078
+
+*Trapped in a Video Game by Dustin Brady (For Ages 8 - 12)*
+- [Amazon Smile](https://smile.amazon.com/Trapped-Video-Game-Book-1/dp/1449494862)
+- ISBN: 978-1449494865
+
+*Super Scratch Programming Adventure! by The Lead Project (For Ages 5+)*
+- [Amazon Smile](https://www.amazon.com/gp/product/1593274092/)
+- ISBN: 978-9881840820
+
+*3D Game Programming for Kids: Create Interactive Worlds with JavaScript by Chris Strom (For Ages 10+)*
+- [Amazon Smile](https://smile.amazon.com/gp/product/1937785440/)
+- ISBN-13: 978-1937785444 
+
+*Hello Ruby: Adventures in Coding by Linda Liukas*
+- [Amazon Smile](https://smile.amazon.com/Hello-Ruby-Adventures-Linda-Liukas/dp/1250065003)
+- ISBN: 978-1250065001
