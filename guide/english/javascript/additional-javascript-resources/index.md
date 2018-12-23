@@ -17,9 +17,10 @@ title: JavaScript Tutorials and Other Resources
 *   <a href='http://www.codeconquest.com/blog/top-50-websites-to-learn-javascript/' target='_blank' rel='nofollow'>The 50 Best Websites to Learn JavaScript</a>
 *   <a href='https://www.codementor.io/community/topic/javascript' target='_blank' rel='nofollow'>Codementor JavaScript tutorial</a> 
 *   <a href='http://youmightnotneedjquery.com/' target='_blank' rel='nofollow'>You Might Not Need jQuery</a>
+*   <a href='http://www.theodinproject.com/' target='_blank' rel='nofollow'>The Odin Project</a>
 *   <a href='https://learnxinyminutes.com/docs/javascript/' target='_blank' rel='nofollow'>Learn X in Y minutes (X = JavaScript)</a>
 *   <a href='http://javascriptbook.com/' target='_blank' rel='nofollow'>JavaScript and jQuery: interactive front-end web development</a>
-*   <a href='https://www.udemy.com/the-complete-javascript-course/' target='_blank' rel='nofollow' >The Complete Javascript Course</a>
+
 
 
 ## References
@@ -58,23 +59,30 @@ title: JavaScript Tutorials and Other Resources
 
 ## Desktop Editors
 
-*   [Visual Studio Code](https://code.visualstudio.com)
 
-    Visual Studio Code includes built-in support for IntelliSense code completion, rich semantic code understanding and navigation and code refactoring. It comes with a built-in debugger, git support and has a plethora of extensions.
+ *   [Visual Studio Code](https://code.visualstudio.com)
     
-*   [Webstorm](https://www.jetbrains.com/webstorm)
+    Visual Studio Code includes built-in support for IntelliSense code completion, rich semantic code understanding and navigation, and code refactoring. It comes with a built-in debugger and git support and has a plethora of extensions.
+    
+    <a href='https://code.visualstudio.com/insiders/' target='_blank' rel='nofollow'>Visual Studio Code Insiders</a>
+    
+    Insiders has the most recent code pushes and may lead to the occasional broken build. New builds at least everyday with features, bug fixes, and other recently closed issues. Insiders installs next to the Stable build, allowing you to use either independently.
 
-    A full-feature IDE for Javascript, including code completion, support for live linting, version control, and testing. Made by Jet Brains and modelled after their IntelliJ Java IDE.
 
-    A full-feature IDE for JavaScript, including code completion and support for live linting, version control, and testing. Made by Jet Brains and modelled after their IntelliJ Java IDE.
+*   [WebStorm](https://www.jetbrains.com/webstorm)
+
+    A full-feature IDE for Javascript, including code completion and support for live linting, version control, and testing. Made by JetBrains and modelled after their IntelliJ Java IDE.
+
 *   <a href='http://brackets.io' target='_blank' rel='nofollow'>Brackets</a>
 
     A text editor made with web designers and front-end developers in mind. Features include: inline editing, live preview, and preprocessor support.   
+    
 *   <a href='http://atom.io' target='_blank' rel='nofollow'>Atom</a>
 
     Atom is an open source text editor made by GitHub. It features embedded Git Control and numerous customization options.
     
 *   [Brackets](http://brackets.io)
+
 *   [Sublime Text](https://www.sublimetext.com)
     Sublime Text is a cross-platform editor featuring a Python API. Free to download and evaluate, but requires a license for continued use.
 

@@ -3,7 +3,7 @@ title: CSS3 Colors
 ---
 ## CSS3 Colors
 
-Colors in CSS are used to colorize elements in our web pages. There are many ways to assign colors to elements. You can use the actual names for the colors, their RGB values or their hexadecimal values. In CSS3 the HSL (hue-saturation-lightness) has been added to the specification.
+Colors in CSS are used to colorize elements in our web-pages. There are many ways to assign colors to elements. You can use the actual names for the colors, their RGB values, or the Hexadecimal values. In CSS3 the hsl (hue-saturation-lightness) has been added to the specification.
 
 ### Color Names
 
@@ -20,7 +20,7 @@ This rule changes the font color for all \<p\> elements to green.<br>
 You can see the full color name list here: https://www.w3schools.com/colors/colors_names.asp
 
 ### RGB values
-RGB stands for red, green and blue and we can also assign colors by typing their RGB values in our rules. An RGB value would look like this: rgb(255,0,0), where each number defines how much of each color will be in the final mix.<br> 
+RGB stands for "Red", "Green", and "Blue". We can also assign colors by typing their RGB values in our rules. An RGB value would look like this: `rgb(255,0,0)`, where each number defines how much of each color will be in the final mix.<br> 
 
 The values range from 0 to 255 and in our example we see that only the first value is 255 while the other two are set to 0. That means that there is only red in our value and the respective element will be colored red. An RGB value of (0, 0, 0) would give black and a value of (255, 255, 255) would give white.<br>
 
@@ -41,10 +41,8 @@ Hexadecimal values are yet another way to define colors in CSS and they work qui
 
 RR(Red), GG(Green), BB(Blue) are hexadecimal integers between 00 and FF specify the intensity of the color. <br>
 
-A random hex code would like this: `#29432b`, where the first two characters after the hash stand for the amount of red in the mix, the second two stand for the amount of green and the last two stand for the amount of blue.<br> 
+A random hex code would like this: `#29432b`, where the first two characters after the hash stand for the amount of RED in the mix, the second two stand for the amount of Green and the last two stand for the amount of Blue. Unlike RGB color mixture where the values are in base 10, Hexadecimal color codes use base 16, or hexadecimal base, to specify color mixtures.
 
-The values of `#000000` and `#ffffff` stand for black and white respectively.<br>
-You can find the specific hexadecimal colors you require by using the same tools mentioned for the RGB values.
 
 ### Syntax
 
@@ -53,7 +51,26 @@ p {
   color: #00fe00;
 }
 ```
+
 This rule again changes the font color of all p elements to green.
+
+The values of `#000000` and `#ffffff` stand for black and white respectively. 
+
+When a hex color code is composed of entirely of the same characters, the hex color can be abbreviated, like this:
+
+```css
+h1 {
+  color: #FFFFFF;
+  color: #FFF; /* This is the same color as above */
+}
+
+h2 {
+  color: #FF33AA;
+  color: #F3A; /* This is the same color as above */
+}
+```
+
+You can find the specific Hexadecimal colors you require by using the same tools mentioned for the RGB values. <br>
 
 ### HSL
 
